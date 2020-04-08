@@ -1,7 +1,7 @@
 # S1mulat0r-Hub
 ## What Is S1mulat0r Hub?
 * A Roblox Script Hub
-## Whos Developers S1mulat0r-Hub?
+## Who Is Developers S1mulat0r-Hub?
  * We Have 5 Developers For S1mulat0r Hub
   1. NoNickname (NoNickname#3463)
   1. Techz (Techz#1786)
