@@ -8,8 +8,10 @@
     "787206414":  {"Name": "AOT Testing 2", "Scripts": "AOT2.lua"},
     "2686500207": {"Name": "A Bizarre Day", "Scripts": "ABizzareday.lua"},
     "4743953901": {"Name": "Soda Simulator", "Scripts": "sodasimscript.lua"},
-    "2603725502": {"Name": "A Bizarre", "Scripts": "a_modded_day.lua"},
-    "3127808194": {"Name": "One Piece Awakening", "Scripts": "OnePieceAWE.lua"}
+    "2603725502": {"Name": "A Bizarre Modded", "Scripts": "a_modded_day.lua"},
+    "3127808194": {"Name": "One Piece Awakening", "Scripts": "OnePieceAWE.lua"},
+    "4042427666": {"Name": "Anime Fighting Simulator", "Scripts": "weebsimulator.lua"}
+
 
 
 }
