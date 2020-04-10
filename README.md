@@ -14,5 +14,6 @@
  * Yes We Have On V3rmillion (v3rmillion.net) and Novo (Novo.fm)
    1. V3rmillion : https://v3rmillion.net/showthread.php?tid=961890
    2. Novo : https://novo.fm/showthread.php?tid=5136
-   
+## Trello
+* https://trello.com/b/AROseZWU/s1mulat0r-hub
 
