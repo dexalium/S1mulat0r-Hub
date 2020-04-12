@@ -4,11 +4,11 @@
 	by Singularity (V3rm @ King Singularity) (Discord @ Singularity#5490)
 --]]
 
-local ui_options = {
-	main_color = Color3.fromRGB(41, 74, 122),
-	min_size = Vector2.new(400, 300),
-	toggle_key = Enum.KeyCode.RightShift,
-	can_resize = true,
+local options = {
+    main_color = Color3.fromRGB(41, 74, 122),
+    min_size = Vector2.new(500, 600),
+toggle_key = Enum.KeyCode.RightShift,
+can_resize = true,
 }
 
 do
@@ -827,7 +827,7 @@ local checks = {
 }
 
 UIS.InputBegan:Connect(function(input, gameProcessed)
-	if input.KeyCode == ((typeof(ui_options.toggle_key) == "EnumItem") and ui_options.toggle_key or Enum.KeyCode.RightShift) then
+	if input.KeyCode == ((typeof(options.toggle_key) == "EnumItem") and options.toggle_key or Enum.KeyCode.RightShift) then
 		if script.Parent then
 			if not checks.binding then
 				script.Parent.Enabled = not script.Parent.Enabled
