@@ -5,15 +5,12 @@
  * We Have 5 Developers For S1mulat0r Hub
   1. NoNickname (NoNickname#3463)
   1. Techz (Techz#1786)
-  1. Chino (Chino#0005)
+  1. Trang (MicrosoftEdge#8688)
   1. Aka Duy (Aka Duy#4917)
-  1. Darz (Darz#8752)
+  1. Darz (Darz#0001)
 ## Discord Link?
- * Here : https://discord.gg/VDBPZy
+ * Here : https://discord.gg/mQepBTh
 ## Do S1mulat0r Hub Has Any Thread On The Forums?
- * Yes We Have On V3rmillion (v3rmillion.net) and Novo (Novo.fm)
+ * Yes We Have On V3rmillion (v3rmillion.net)
    1. V3rmillion : https://v3rmillion.net/showthread.php?tid=961890
-   2. Novo : https://novo.fm/showthread.php?tid=5136
-## Trello
-* https://trello.com/b/AROseZWU/s1mulat0r-hub
-
+   
